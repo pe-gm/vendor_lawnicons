@@ -560,4 +560,5 @@
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
     <icon drawable="@drawable/to_dont" package="rocks.poopjournal.todont" name="To Donʼt" />
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
+    <icon drawable="@drawable/youtube_revanced" package="app.revanced.android.youtube" name="YouTube ReVanced" />
 </icons>
